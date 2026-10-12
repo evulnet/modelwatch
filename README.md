@@ -45,7 +45,7 @@ State lives in a single JSON file (`state_dir/state.json`) holding:
 ## Install
 
 ```bash
-git clone https://github.com/nkavassalis/modelwatch.git
+git clone https://github.com/evulnet/modelwatch.git
 cd modelwatch
 python3 -m venv .venv
 .venv/bin/pip install -e .          # add "[s3]" if you will use publish mode

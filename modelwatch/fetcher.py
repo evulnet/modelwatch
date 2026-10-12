@@ -9,7 +9,7 @@ import requests
 
 HF_LINK = "https://huggingface.co/{model_id}"
 TAGS_URL = "https://huggingface.co/api/models-tags-by-type"
-USER_AGENT = "modelwatch/0.1 (+https://github.com/nkavassalis/modelwatch)"
+USER_AGENT = "modelwatch/0.1 (+https://github.com/evulnet/modelwatch)"
 
 
 @dataclass

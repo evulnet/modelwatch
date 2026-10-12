@@ -78,3 +78,141 @@ skipped (cache fresh)
 skipped (cache fresh)
 2026-10-08 10:00:02,039 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 24.0h not expired)
 skipped (cache fresh)
+2026-10-08 12:00:01,294 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-08 15:00:01,508 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-08 15:00:01,873 modelwatch INFO fetched 100 models, 1 new
+2026-10-08 15:00:01,954 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-08 15:00:02,373 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-08 15:00:02,772 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-08 18:00:02,048 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-08 18:00:02,464 modelwatch INFO fetched 100 models, 0 new
+2026-10-08 18:00:02,543 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-08 18:00:02,939 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-08 18:00:03,375 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-08 21:00:01,676 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-09 00:00:01,903 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-09 00:00:02,288 modelwatch INFO fetched 100 models, 1 new
+2026-10-09 00:00:02,410 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-09 00:00:02,797 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-09 00:00:03,286 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-09 03:00:01,564 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-09 06:00:01,820 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-09 06:00:02,217 modelwatch INFO fetched 100 models, 4 new
+2026-10-09 06:00:02,294 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-09 06:00:02,732 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-09 06:00:03,318 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-09 09:00:01,601 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-09 12:00:01,809 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-09 12:00:02,105 modelwatch INFO fetched 100 models, 2 new
+2026-10-09 12:00:02,193 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-09 12:00:02,713 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-09 12:00:03,219 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-09 15:00:01,509 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-09 18:00:01,726 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-09 18:00:02,162 modelwatch INFO fetched 100 models, 3 new
+2026-10-09 18:00:02,284 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-09 18:00:02,713 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-09 18:00:03,268 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-09 21:00:01,564 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-10 00:00:01,764 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-10 00:00:02,136 modelwatch INFO fetched 100 models, 4 new
+2026-10-10 00:00:02,261 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-10 00:00:02,700 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-10 00:00:03,101 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-10 03:00:01,351 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-10 06:00:01,564 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-10 06:00:02,000 modelwatch INFO fetched 100 models, 1 new
+2026-10-10 06:00:02,076 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-10 06:00:02,508 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-10 06:00:02,962 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-10 09:00:01,320 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-10 12:00:01,586 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-10 12:00:01,990 modelwatch INFO fetched 100 models, 4 new
+2026-10-10 12:00:02,120 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-10 12:00:02,786 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-10 12:00:03,209 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-10 15:00:01,497 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-10 18:00:01,741 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-10 18:00:02,093 modelwatch INFO fetched 100 models, 3 new
+2026-10-10 18:00:02,169 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-10 18:00:02,695 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-10 18:00:03,087 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-10 21:00:01,345 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-11 00:00:01,554 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-11 00:00:01,899 modelwatch INFO fetched 100 models, 2 new
+2026-10-11 00:00:01,988 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-11 00:00:02,400 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-11 00:00:02,790 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-11 03:00:02,112 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-11 03:00:02,517 modelwatch INFO fetched 100 models, 0 new
+2026-10-11 03:00:02,592 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-11 03:00:03,000 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-11 03:00:03,409 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-11 06:00:01,702 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-11 09:00:01,946 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-11 09:00:02,366 modelwatch INFO fetched 100 models, 2 new
+2026-10-11 09:00:02,448 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-11 09:00:02,855 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-11 09:00:03,256 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-11 12:00:01,608 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-11 15:00:01,968 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-11 15:00:02,364 modelwatch INFO fetched 100 models, 0 new
+2026-10-11 15:00:02,529 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-11 15:00:03,345 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-11 15:00:03,771 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-11 18:00:02,058 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-11 21:00:01,259 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-11 21:00:01,657 modelwatch INFO fetched 100 models, 3 new
+2026-10-11 21:00:01,732 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-11 21:00:02,111 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-11 21:00:02,646 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-12 00:00:01,928 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-12 00:00:02,310 modelwatch INFO fetched 100 models, 0 new
+2026-10-12 00:00:02,388 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-12 00:00:02,783 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-12 00:00:03,235 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-12 03:00:01,512 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-12 06:00:01,744 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-12 06:00:02,226 modelwatch INFO fetched 100 models, 0 new
+2026-10-12 06:00:02,307 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-12 06:00:02,852 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-12 06:00:03,251 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
+2026-10-12 09:00:01,607 modelwatch.publish INFO cache fresh; skipping S3 upload (TTL 3.0h not expired)
+skipped (cache fresh)
+2026-10-12 12:00:01,900 modelwatch INFO fetching https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=100
+2026-10-12 12:00:02,231 modelwatch INFO fetched 100 models, 5 new
+2026-10-12 12:00:02,326 botocore.credentials INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-12 12:00:02,741 modelwatch.publish INFO uploaded s3://modelwatch-rss/feed.xml
+2026-10-12 12:00:03,212 modelwatch.publish INFO cloudfront invalidation created for E2MSFTBRSGB0XM
+uploaded
